@@ -1,3 +1,3 @@
 <?php
 
-echo 'HELO WORLD v2.4';
+echo 'HELO WORLD v2.5';
