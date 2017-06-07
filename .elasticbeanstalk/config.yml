@@ -1,0 +1,10 @@
+branch-defaults:
+  master:
+    environment: null
+    group_suffix: null
+global:
+  application_name: test
+  default_platform: PHP 7.0
+  default_region: us-west-2
+  profile: eb-cli
+  sc: git
